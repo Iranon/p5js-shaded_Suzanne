@@ -1,0 +1,11 @@
+body{
+    background-color: #c3c3c3;
+  }
+
+  #p5_script {
+    display: flex;
+    /* This centers the sketch horizontally. */
+    justify-content: center;
+    /* This centers the sketch vertically. */
+    align-items: center;
+  }
